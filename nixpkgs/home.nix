@@ -27,6 +27,7 @@
     rustup
     nodejs
     racket
+    stack
 
 
     #############
@@ -61,6 +62,12 @@
     asciinema
     graphviz
     imagemagick
+    haskell-language-server
+
+    ##############
+    # build/libs #
+    ##############
+    zlib
   ];
 
   ###########
